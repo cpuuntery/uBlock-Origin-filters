@@ -1,0 +1,161 @@
+! 4/24/2019 https://www.google.com
+www.google.com###gws-output-pages-elements-homepage_additional_languages__als
+
+! 5/22/2019 http://btdig.com
+btdig.com###form1 > div
+
+! 5/25/2019 https://discordapp.com
+discordapp.com##.height36-36OHCc.weightMedium-2iZe9B.size14-3iUx6q.notice-2FJMB4.noticeDefault-362Ko2
+
+! 7/3/2019 https://ampdemo.azureedge.net
+||amp.azure.net/libs/amp/latest/skins/amp-default/assets/icons/amslogo.png$image
+
+! 7/5/2019 google.com
+@@||www.google.com/js/bg/*$script
+
+! 7/5/2019 https://ampdemo.azureedge.net
+ampdemo.azureedge.net###advancedOptions
+ampdemo.azureedge.net##.well.col-md-pull-9.col-md-3
+
+! 7/26/2019 https://ampdemo.azureedge.net
+ampdemo.azureedge.net##footer
+ampdemo.azureedge.net###assetConfig > div.row:nth-of-type(1)
+ampdemo.azureedge.net##.jumbotron:style(visibility: hidden !important)
+ampdemo.azureedge.net##center
+
+! 7/28/2019 https://ampdemo.azureedge.net
+ampdemo.azureedge.net###assetConfig > div.row:nth-of-type(3)
+
+! 8/3/2019 fdossena.com
+||fdossena.com/BACKGROUNDS/*$script,important
+
+! 8/7/2019 anandtech.com
+||kaspersky-labs.com^$important
+
+! 1/5/2020 https://btdig.com
+btdig.com##tr:nth-of-type(2) > td
+
+! 2/1/2020 https://myanimelist.net
+myanimelist.net##.fade-in.popup-background.welcome-back
+
+! 5/12/2020 http://touhounosekai.blogspot.com
+touhounosekai.blogspot.com###lower2
+
+! 5/13/2020 http://touhounosekai.blogspot.com
+touhounosekai.blogspot.com###sidebar
+
+! 6/4/2020 mozilla.github.io
+||mozilla.github.io/pdf.js/web/compressed.tracemonkey-pldi-09.pdf$xhr,1p,important
+
+! 6/6/2020 mangadex.org
+||mangadex.org/images/avatars/*$image,1p,important
+
+! 6/8/2020 https://www.howtogeek.com
+www.howtogeek.com###secondary
+
+! 6/9/2020 https://countwordsfree.com
+countwordsfree.com##textarea:style(width: 100% !important)
+
+! 6/16/2020 vocabulary.com
+||cdn.vocab.com^$media,important
+
+! 7/22/2020 https://thwiki.cc
+thwiki.cc##.read-more-container
+
+! 8/10/2020 thwiki.cc
+||upload.thwiki.cc/interface/go-top.png$important
+
+! 2020-08-20 reddit.com
+||gql.reddit.com^$xhr,important
+
+! 2020-10-13 myanimelist.net
+||cdn.myanimelist.net/images/useravatars/*$important
+||image.myanimelist.net/ui/*$important
+
+! 2020-10-14 https://www.pixiv.net
+www.pixiv.net##.eFqYrE.sc-185y4-0
+
+! 2020-10-23 linuxize.com
+@@||linuxize.com/detroitchicago/dayton.js$script,1p
+
+! 2020-10-31 https://ext.to
+ext.to##.py-md-3.bd-toc.col-xl-2.d-xl-block
+
+! 2020-11-16 https://www.reddit.com
+www.reddit.com##._1acwN_tUhJ8w-n7oCp-Aw3
+
+*##.jfk-bubble.gtx-bubble:style(z-index: 10000000000000 !important)
+
+! 2020-11-18 https://dashboard.heroku.com
+dashboard.heroku.com##.hk-slide-panel-container:style(height: 100% !important)
+dashboard.heroku.com##.ember-view.z-2
+
+! 2020-12-04 https://translate.google.com
+@@||ssl.gstatic.com/translate/favicon.ico$image
+
+! 2020-12-14 https://www.webtoons.com
+www.webtoons.com##.challenge_spot
+@@||webtoons-static.pstatic.net/image/favicon/*$image,domain=www.webtoons.com
+
+! 2020-12-27 https://www.webtoons.com
+||global.apis.naver.com/commentBox/*$important
+
+! 2020-12-28 https://www.webtoons.com
+www.webtoons.com###_bottomDisplay
+
+! 2021-01-22 https://www.youtube.com
+www.youtube.com##.ytp-promotooltip-wrapper
+
+! 2021-01-27 http://192.168.1.1
+192.168.1.1##div#folderGrid th.grid-header-0, div#folderGrid td.grid-content-td-0:style(width: 300px !important)
+192.168.1.1##div.top-content-wrap:style(width: 1920px !important)
+192.168.1.1##.hidden.top-footer
+
+! 2021-01-29 http://192.168.1.1
+192.168.1.1###login-note-cnt
+192.168.1.1##.login-switch-btn
+
+! 2021-02-15 https://bandcamp.com
+bandcamp.com##.download-bottom-area
+
+! 2021-02-21 https://iruka33.web.fc2.com
+||vip.chps-api.fc2.com/apis/footer/*$script,1p,important
+
+! 2021-02-21 http://iruka33.web.fc2.com
+iruka33.web.fc2.com##textarea#output:style(height: 391px; width: 995px; !important)
+
+! 2021-04-29 https://myanimelist.net
+myanimelist.net##.detail-page-featured-article
+
+! 2021-05-09 https://forums.animesuki.com
+||cdn-forums.animesuki.com/images/as.icon/signaturepics/*.gif$important
+
+! 2021-05-29 https://ipinfo.io
+ipinfo.io##.show.fade.ipinfo-modal
+
+! 2021-06-27 https://www.youtube.com
+www.youtube.com##.ytp-button.ytp-fullerscreen-edu-button
+! 2021-07-09 https://danbooru.donmai.us
+danbooru.donmai.us##.notice-large.notice-info.notice
+
+! 2021-07-22 https://safebooru.donmai.us
+safebooru.donmai.us##.notice-large.notice-info.notice
+
+! 2021-07-26 https://www.youtube.com
+www.youtube.com##.ytp-button.ytp-miniplayer-button
+
+! 2021-07-29 https://toarumajutsunoindex.fandom.com
+fandom.com###WikiaBar
+fandom.com##.top-ads-container
+
+! 2021-07-30 https://www.youtube.com
+www.youtube.com##button.ytp-button:nth-of-type(9)
+
+! 2021-08-02 https://manga4life.com
+manga4life.com##.HasGap:style(margin-top: 0px !important)
+
+! 2021-10-03 https://security.stackexchange.com
+superuser.com##.js-consent-banner
+stackexchange.com##.js-consent-banner
+stackoverflow.com##.js-consent-banner
+
