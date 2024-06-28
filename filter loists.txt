@@ -1,0 +1,290 @@
+! 4/24/2019 https://www.google.com
+www.google.com###gws-output-pages-elements-homepage_additional_languages__als
+
+! 5/22/2019 http://btdig.com
+btdig.com###form1 > div
+
+! 5/25/2019 https://discordapp.com
+discordapp.com##.height36-36OHCc.weightMedium-2iZe9B.size14-3iUx6q.notice-2FJMB4.noticeDefault-362Ko2
+
+! 7/3/2019 https://ampdemo.azureedge.net
+||amp.azure.net/libs/amp/latest/skins/amp-default/assets/icons/amslogo.png$image
+
+! 7/5/2019 google.com
+@@||www.google.com/js/bg/*$script
+
+! 7/5/2019 https://ampdemo.azureedge.net
+ampdemo.azureedge.net###advancedOptions
+ampdemo.azureedge.net##.well.col-md-pull-9.col-md-3
+
+! 7/26/2019 https://ampdemo.azureedge.net
+ampdemo.azureedge.net##footer
+ampdemo.azureedge.net###assetConfig > div.row:nth-of-type(1)
+ampdemo.azureedge.net##.jumbotron:style(visibility: hidden !important)
+ampdemo.azureedge.net##center
+
+! 7/28/2019 https://ampdemo.azureedge.net
+ampdemo.azureedge.net###assetConfig > div.row:nth-of-type(3)
+
+! 8/3/2019 fdossena.com
+||fdossena.com/BACKGROUNDS/*$script,important
+
+! 8/7/2019 anandtech.com
+||kaspersky-labs.com^$important
+
+! 1/5/2020 https://btdig.com
+btdig.com##tr:nth-of-type(2) > td
+
+! 2/1/2020 https://myanimelist.net
+myanimelist.net##.fade-in.popup-background.welcome-back
+
+! 5/12/2020 http://touhounosekai.blogspot.com
+touhounosekai.blogspot.com###lower2
+
+! 5/13/2020 http://touhounosekai.blogspot.com
+touhounosekai.blogspot.com###sidebar
+
+! 6/8/2020 https://www.howtogeek.com
+www.howtogeek.com###secondary
+
+! 6/9/2020 https://countwordsfree.com
+countwordsfree.com##textarea:style(width: 100% !important)
+
+! 6/16/2020 vocabulary.com
+||cdn.vocab.com^$media,important
+
+! 7/22/2020 https://thwiki.cc
+thwiki.cc##.read-more-container
+
+! 8/10/2020 thwiki.cc
+||upload.thwiki.cc/interface/go-top.png$important
+
+! 2020-10-13 myanimelist.net
+||cdn.myanimelist.net/images/useravatars/*$important
+||image.myanimelist.net/ui/*$important
+
+! 2020-10-14 https://www.pixiv.net
+www.pixiv.net##.eFqYrE.sc-185y4-0
+
+! 2020-10-23 linuxize.com
+@@||linuxize.com/detroitchicago/dayton.js$script,1p
+
+! 2020-10-31 https://ext.to
+ext.to##.py-md-3.bd-toc.col-xl-2.d-xl-block
+
+! 2020-12-04 https://translate.google.com
+@@||ssl.gstatic.com/translate/favicon.ico$image
+
+! 2020-12-14 https://www.webtoons.com
+www.webtoons.com##.challenge_spot
+@@||webtoons-static.pstatic.net/image/favicon/*$image,domain=www.webtoons.com
+
+! 2020-12-27 https://www.webtoons.com
+||global.apis.naver.com/commentBox/*$important
+
+! 2020-12-28 https://www.webtoons.com
+www.webtoons.com###_bottomDisplay
+
+! 2021-01-22 https://www.youtube.com
+www.youtube.com##.ytp-promotooltip-wrapper
+
+! 2021-01-27 http://192.168.1.1
+192.168.1.1##div#folderGrid th.grid-header-0, div#folderGrid td.grid-content-td-0:style(width: 300px !important)
+192.168.1.1##div.top-content-wrap:style(width: 1920px !important)
+192.168.1.1##.hidden.top-footer
+
+! 2021-01-29 http://192.168.1.1
+192.168.1.1###login-note-cnt
+192.168.1.1##.login-switch-btn
+
+! 2021-02-15 https://bandcamp.com
+bandcamp.com##.download-bottom-area
+
+! 2021-02-21 https://iruka33.web.fc2.com
+||vip.chps-api.fc2.com/apis/footer/*$script,1p,important
+
+! 2021-02-21 http://iruka33.web.fc2.com
+iruka33.web.fc2.com##textarea#output:style(height: 391px; width: 995px; !important)
+
+! 2021-04-29 https://myanimelist.net
+myanimelist.net##.detail-page-featured-article
+
+! 2021-05-09 https://forums.animesuki.com
+||cdn-forums.animesuki.com/images/as.icon/signaturepics/*.gif$important
+
+! 2021-05-29 https://ipinfo.io
+ipinfo.io##.show.fade.ipinfo-modal
+
+! 2021-06-27 https://www.youtube.com
+www.youtube.com##.ytp-button.ytp-fullerscreen-edu-button
+! 2021-07-09 https://danbooru.donmai.us
+danbooru.donmai.us##.notice-large.notice-info.notice
+
+! 2021-07-22 https://safebooru.donmai.us
+safebooru.donmai.us##.notice-large.notice-info.notice
+
+! 2021-07-26 https://www.youtube.com
+www.youtube.com##.ytp-button.ytp-miniplayer-button
+
+! 2021-07-29 https://toarumajutsunoindex.fandom.com
+fandom.com###WikiaBar
+fandom.com##.top-ads-container
+
+! 2021-08-02 https://manga4life.com
+manga4life.com##.HasGap:style(margin-top: 0px !important)
+mangasee123.com##.HasGap:style(margin-top: 0px !important)
+
+! 2021-10-03 https://security.stackexchange.com
+superuser.com##.js-consent-banner
+stackexchange.com##.js-consent-banner
+stackoverflow.com##.js-consent-banner
+
+! 2022-04-18 https://www.youtube.com
+www.youtube.com##.ytp-button.ytp-remote-button
+
+! 2022-04-21 https://keqingmains.com
+||keqingmains.com/wp-content/uploads/2022/04/keqing-cursor.png$image,important
+
+! 2022-05-29 https://forums.tomsguide.com
+||ssl.p.jwpcdn.com^$script,important
+||cdn.jwplayer.com^$important
+
+! 2022-08-04 https://genshin-impact.fandom.com
+||genshin-impact.fandom.com/wikia.php?controller=RecirculationApi&method=getLatestThreads&_lang=en$important
+
+! 2022-08-13 https://www.anandtech.com
+www.anandtech.com###taboola-mid-article
+
+! 2022-08-20 https://www.webtoons.com
+||*cbox*.js$important
+
+! 2022-09-04 https://9anime.id
+9anime.id###watch-second > .watch-container.container > .aside-wrapper > .sidebar
+||9anime-to.disqus.com^$domain=9anime.*,important
+
+! 2022-09-19 https://catbox.moe
+||catbox.moe/pictures/qts/*$image,important
+
+! 2022-10-05 https://act.hoyolab.com
+act.hoyolab.com##.custom-mihoyo-common-mask._1NVi6w4R
+
+! 2022-10-10 https://act.hoyolab.com
+act.hoyolab.com##.components-home-assets-__sign-recom_---recommend---2_onvu
+
+
+
+! 2023-02-03 https://www.reddit.com
+www.reddit.com##._2vEf-C2keJaBMY9qk_BxVn
+
+! 2023-02-09 https://genshin-impact-map.appsample.com
+genshin-impact-map.appsample.com###pc-br-300x250-gim
+
+! 2023-04-09 https://hemingwayapp.com
+hemingwayapp.com##.hemingway-desktop-sidebar-container
+hemingwayapp.com##div.DraftEditor-root:style(width: fit-content !important)
+hemingwayapp.com##div.hemingway-editor-draft-container:style(margin-left: -460px !important)
+hemingwayapp.com##div.DraftEditor-root:style(margin-left: -200px !important)
+hemingwayapp.com##.hemingway-richtext-toolbar-container
+
+! 2023-04-09 https://collabedit.com
+collabedit.com###conn_error
+collabedit.com###header
+collabedit.com###sidebar_div
+collabedit.com##div#edit_area_text_div:style(width: inherit !important)
+collabedit.com##iframe#frame_the_input:style(width: inherit !important)
+
+! 2023-04-09 https://pi7.org
+pi7.org###lefttoolbar
+
+! 2023-04-10 https://pi7.org
+pi7.org##.vk-box.notranslate.goog-container-vertical.goog-container
+
+! 2023-04-17 https://lens.google.com
+lens.google.com##div.g8gdQd
+lens.google.com##.SAvApe:style(bottom: 0px !important)
+lens.google.com##.z3qvzf
+! font size
+!lens.google.com##.svJwq.I9m2Y:style(font-size: 11px !important;)
+! vertical
+!lens.google.com##.pXCGrf:style(height: 810px !important)
+!lens.google.com##.pXCGrf:style(top: 330px !important)
+! horizaintail
+lens.google.com##.J3xyEe:style(transform: rotate(270deg) !important)
+lens.google.com##.pXCGrf:style(top: 100px; right: -105px; !important)
+lens.google.com##.pXCGrf:style(width: 810px !important)
+lens.google.com##.pXCGrf:style(height: 1095px !important)
+
+! 2023-05-03 https://www.pixiv.net
+www.pixiv.net##div.sc-rp5asc-0.eGQovZ:style(width: 184px !important)
+www.pixiv.net##div.sc-rp5asc-0.eGQovZ:style(height: 184px !important)
+
+! 2023-05-08 https://www.reddit.com
+www.reddit.com##div.pt-sm.pb-lg.px-md
+
+! 2023-07-02 https://act.hoyolab.com
+act.hoyolab.com##.components-home-assets-__sign-recom-test_---recommend---1CKbTa
+
+! 2023-07-04 https://old.reddit.com
+old.reddit.com##.seo-comments-recommendations.spacer
+
+! 2023-08-02 https://old.reddit.com
+old.reddit.com##.commentsignupbar.infobar
+
+! 2023-08-17 https://web.telegram.org
+web.telegram.org##avatar-element[data-peer-id='-758000648']:style(left: 10px !important)
+
+www.youtube.com##ytd-guide-renderer a.yt-simple-endpoint path[d^="M10 14.65v-5.3L15 12l-5 2.65zm7.77-4.33"]:upward(ytd-guide-entry-renderer)
+www.youtube.com##ytd-mini-guide-renderer a.yt-simple-endpoint path[d^="M10 14.65v-5.3L15 12l-5 2.65zm7.77-4.33"]:upward(ytd-mini-guide-entry-renderer)
+www.youtube.com##ytd-browse[page-subtype="home"] .ytd-thumbnail[href^="/shorts/"]:upward(ytd-rich-item-renderer)
+www.youtube.com##ytd-browse[page-subtype="subscriptions"] .ytd-thumbnail[href^="/shorts/"]:upward(ytd-grid-video-renderer,ytd-rich-item-renderer)
+www.youtube.com##ytd-search .ytd-thumbnail[href^="/shorts/"]:upward(ytd-video-renderer)
+www.youtube.com##ytd-browse[page-subtype="subscriptions"] ytd-video-renderer .ytd-thumbnail[href^="/shorts/"]:upward(ytd-item-section-renderer)
+www.youtube.com##ytd-watch-next-secondary-results-renderer .ytd-thumbnail[href^="/shorts/"]:upward(ytd-compact-video-renderer,ytd-shelf-renderer)
+www.youtube.com##ytd-browse[page-subtype="trending"] .ytd-thumbnail[href^="/shorts/"]:upward(ytd-video-renderer)
+www.youtube.com##ytd-search .ytd-thumbnail[href^="/shorts/"]:upward(ytd-video-renderer)
+www.youtube.com##ytd-rich-shelf-renderer[is-shorts]
+www.youtube.com##ytd-rich-shelf-renderer[is-shorts].ytd-rich-section-renderer:upward(ytd-rich-section-renderer)
+www.youtube.com##ytd-reel-shelf-renderer
+m.youtube.com##ytm-reel-shelf-renderer
+m.youtube.com##ytm-pivot-bar-renderer div.pivot-shorts:upward(ytm-pivot-bar-item-renderer)
+m.youtube.com##ytm-browse ytm-item-section-renderer ytm-thumbnail-overlay-time-status-renderer[data-style="SHORTS"]:upward(ytm-video-with-context-renderer)
+m.youtube.com##ytm-browse ytm-item-section-renderer ytm-thumbnail-overlay-time-status-renderer[data-style="SHORTS"]:upward(ytm-compact-video-renderer)
+m.youtube.com##ytm-search ytm-thumbnail-overlay-time-status-renderer[data-style="SHORTS"]:upward(ytm-compact-video-renderer,ytm-video-with-context-renderer)
+m.youtube.com##ytm-single-column-watch-next-results-renderer ytm-thumbnail-overlay-time-status-renderer span:has-text(/^(0:\d\d|1:0\d)$/):upward(ytm-video-with-context-renderer)
+youtube.com##ytd-rich-grid-row, #contents.ytd-rich-grid-row:style(display:contents !important;)
+www.youtube.com###related
+m.youtube.com##ytm-watch ytm-item-section-renderer[data-content-type="related"]
+www.youtube.com##ytd-browse[page-subtype="home"]
+m.youtube.com##ytm-browse div[tab-identifier="FEwhat_to_watch"]
+www.youtube.com##.ytp-ce-element
+www.youtube.com##.ytp-endscreen-content
+www.youtube.com##ytd-browse[page-subtype="playlist"] [title-style="ITEM_SECTION_HEADER_TITLE_STYLE_PLAYLIST_RECOMMENDATIONS"]:upward(ytd-item-section-renderer)
+www.youtube.com##ytd-browse[page-subtype="playlist"] ytd-grid-playlist-renderer:upward(#dismissible)
+
+
+! 2023-11-30 https://act.hoyolab.com
+@@||webstatic.hoyoverse.com/dora/biz/mihoyo-analysis/v2/main.js$script
+
+! 2024-02-28 https://www.youtube.com
+www.youtube.com##.ytd-video-owner-renderer.style-scope > yt-button-shape
+
+! letsblock.it
+fandom.com##.global-navigation
+fandom.com##.main-container:style(width: 100% !important; margin-left: auto !important; margin-right: auto !important;)
+fandom.com##.fandom-community-header__background:style(width: 100% !important)
+fandom.com##.fandom-sticky-header:style(left: 0 !important;)
+fandom.com##.search-modal::before:style(left: 0 !important;)
+fandom.com##body:style(border-left: none !important;)
+fandom.com##.notifications-placeholder
+fandom.com###WikiaBar
+fandom.com##.global-footer
+fandom.com###mixed-content-footer
+fandom.com##.explore-menu.wds-dropdown
+fandom.com##.reviews
+fandom.com###age-gate
+
+! 2024-05-20 https://lens.google.com
+@@||lens.google.com^
+
+! May 30, 2024 https://mapgenie.io
+mapgenie.io##div.mapboxgl-popup-content:style(background: var(--popup-border-color) !important)
